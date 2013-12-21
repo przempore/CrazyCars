@@ -1,0 +1,11 @@
+﻿Build started 2013-12-21 19:52:19.
+     1>Project "C:\Users\Przemo\documents\visual studio 2013\Projects\SFMLGame1\SFMLGame1\SFMLGame1.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\Visual Studio 2013\VC\bin\CL.exe /c /I"C:\Biblioteki\SFML-2.1-VS2013-RC\SFML-2.1\include" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D SFML_STATIC /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug Static\\" /Fd"Debug Static\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt OpponentCar.cpp
+         OpponentCar.cpp
+     1>c:\users\przemo\documents\visual studio 2013\projects\sfmlgame1\sfmlgame1\opponentcar.cpp(65): error C4716: 'Game::PlayGame::OpponentCar::Collision' : must return a value
+     1>Done Building Project "C:\Users\Przemo\documents\visual studio 2013\Projects\SFMLGame1\SFMLGame1\SFMLGame1.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.09

@@ -1,0 +1,20 @@
+﻿Build started 2013-12-21 19:30:05.
+     1>Project "C:\Users\Przemo\documents\visual studio 2013\Projects\SFMLGame1\SFMLGame1\SFMLGame1.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\Visual Studio 2013\VC\bin\CL.exe /c /I"C:\Biblioteki\SFML-2.1-VS2013-RC\SFML-2.1\include" /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _LIB /D SFML_STATIC /D _UNICODE /D UNICODE /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release Static\\" /Fd"Release Static\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt OpponentCar.cpp
+         OpponentCar.cpp
+       Link:
+         D:\Visual Studio 2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Przemo\documents\visual studio 2013\Projects\SFMLGame1\Release Static\SFMLGame1.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:"C:\Biblioteki\SFML-2.1-VS2013-RC\SFML-2.1\extlibs\libs-msvc\x86" /LIBPATH:"C:\Biblioteki\SFML-2.1-VS2013-RC\SFML-2.1\Staitc Libs\Release" "sfml-graphics-s.lib" "sfml-window-s.lib" "sfml-system-s.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Przemo\documents\visual studio 2013\Projects\SFMLGame1\Release Static\SFMLGame1.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Przemo\documents\visual studio 2013\Projects\SFMLGame1\Release Static\SFMLGame1.lib" /MACHINE:X86 /SAFESEH "Release Static\Background.obj"
+         "Release Static\Car.obj"
+         "Release Static\Graphic.obj"
+         "Release Static\Main.obj"
+         "Release Static\OpponentCar.obj"
+         "Release Static\Player.obj"
+         Generating code
+         Finished generating code
+         SFMLGame1.vcxproj -> C:\Users\Przemo\documents\visual studio 2013\Projects\SFMLGame1\Release Static\SFMLGame1.exe
+     1>Done Building Project "C:\Users\Przemo\documents\visual studio 2013\Projects\SFMLGame1\SFMLGame1\SFMLGame1.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.28

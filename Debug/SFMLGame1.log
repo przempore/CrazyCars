@@ -1,0 +1,18 @@
+﻿Build started 2013-12-21 11:17:17.
+     1>Project "C:\Users\Przemo\documents\visual studio 2013\Projects\SFMLGame1\SFMLGame1\SFMLGame1.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\Visual Studio 2013\VC\bin\CL.exe /c /I"C:\Biblioteki\SFML-2.1-VS2013-RC\SFML-2.1\include" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Main.cpp
+         Main.cpp
+       Link:
+         D:\Visual Studio 2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Przemo\documents\visual studio 2013\Projects\SFMLGame1\Debug\SFMLGame1.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Biblioteki\SFML-2.1-VS2013-RC\SFML-2.1\Libs\Debug" "sfml-graphics-d.lib" "sfml-window-d.lib" "sfml-system-d.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Przemo\documents\visual studio 2013\Projects\SFMLGame1\Debug\SFMLGame1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Przemo\documents\visual studio 2013\Projects\SFMLGame1\Debug\SFMLGame1.lib" /MACHINE:X86 Debug\Background.obj
+         Debug\Car.obj
+         Debug\Graphic.obj
+         Debug\Main.obj
+         Debug\OpponentCar.obj
+         Debug\Player.obj
+         SFMLGame1.vcxproj -> C:\Users\Przemo\documents\visual studio 2013\Projects\SFMLGame1\Debug\SFMLGame1.exe
+     1>Done Building Project "C:\Users\Przemo\documents\visual studio 2013\Projects\SFMLGame1\SFMLGame1\SFMLGame1.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.69
